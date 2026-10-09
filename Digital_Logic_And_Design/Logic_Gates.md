@@ -1,3 +1,5 @@
+[https://github.com/hetsakariya0111-gi/CGxSU_Semester_1/blob/main/Semester_3/Digital%20Logic%20and%20Design/06_Logic%20Gates_and_Universal_Gates.md]
+
 # Logic Gates: Quick Notes
 
 `0` = LOW/OFF, `1` = HIGH/ON
